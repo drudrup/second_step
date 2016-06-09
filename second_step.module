@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Second Step feature.
+ */
+
+include_once 'second_step.features.inc';
