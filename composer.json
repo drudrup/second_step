@@ -1,0 +1,13 @@
+{
+  "name": "leoggo/second_step",
+  "description": "A feature to be installed just after a fressh Drupal7 install",
+  "homepage": "https://github.com/drudrup/second_step",
+  "authors": [
+    {
+      "name": "Anthony Brard",
+      "email": "contact@leoggo.net",
+      "homepage": "https://www.leoggo.net",
+      "role": "Developer"
+    }
+  ],
+  }
