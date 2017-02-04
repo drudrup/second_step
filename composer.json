@@ -10,5 +10,8 @@
       "homepage": "https://www.leoggo.net",
       "role": "Developer"
     }
-  ]
+   ],
+   "require": {
+      "composer/installers": "~1.0"
+   }
   }
