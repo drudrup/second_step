@@ -13,10 +13,5 @@
    ],
    "require": {
       "composer/installers": "~1.0"
-   },
-  "scripts": {
-    "post-create-project-cmd": [
-      "rm README.rd"
-    ]
-  }
+   }
   }
