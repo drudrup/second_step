@@ -2,7 +2,7 @@
   "name": "leoggo/second_step",
   "description": "A feature to be installed just after a fressh Drupal7 install",
   "homepage": "https://github.com/drudrup/second_step",
-  "type": "drupal-feature",
+  "type": "drupal-module",
   "authors": [
     {
       "name": "Anthony Brard",
@@ -13,5 +13,8 @@
    ],
    "require": {
       "composer/installers": "~1.0"
+   },
+   "extra": {
+    "installer-name": "secondstep"
    }
   }
